@@ -1,2 +1,1 @@
-# Postman_autotest
-Несколько автотестов на JS для Postman
+# Несколько автотестов на JS для Postman
